@@ -1,0 +1,18 @@
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  }
+
+  .btn {
+    background-color: #7766da; 
+    padding: 4px 8px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  .btn:hover{
+      background-color: #1d00c0;
+      cursor: pointer;
+  }
